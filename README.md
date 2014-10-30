@@ -12,4 +12,4 @@ or other items from local coffee and "on-the-go" shops via their smartphones. Th
 customers to skip the lines as their order will be ready when they arrive at the store.
 Through collaboration with the store owners, the app will be integrated with local menus and will
 offer a payment method directly between the customer and the store. The app will not offer
-alcoholic beverages
+alcoholic beverages.
